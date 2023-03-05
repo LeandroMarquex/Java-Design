@@ -18,6 +18,7 @@ public class Introducao {
         // TODO code application logic here
         System.out.println("introducao.Introducao.main()");
         System.out.println("teste PULL");
+         System.out.println("teste COMMIT");
     }
     
 }
